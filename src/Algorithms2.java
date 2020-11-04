@@ -5,7 +5,7 @@
  * 27/10/2020
  */
 
-public class Algorithms2 {
+public class    Algorithms2 {
 
     // TODO 1 Skriv en metode her i denne klasse, som kan finde et tal i Data klassens randomNumbers1000 felt med LINEAR SEARCH
 
